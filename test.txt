@@ -2,3 +2,4 @@ hai
 my file
 add line
 hello
+hai
