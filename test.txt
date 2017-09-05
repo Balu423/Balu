@@ -1,5 +1,1 @@
-hai
-my file
-add line
-hello
-hai
+https://github.com/jenkins-infra
